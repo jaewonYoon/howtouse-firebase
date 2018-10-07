@@ -35,3 +35,6 @@ All you need to do is fixing three files;
 4. take a look project directories, look 'AndroidManifest.xml' in path; project_name_you_want/android/app/src/java 
 
 </body>
+
+  
+  </html> 
