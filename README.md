@@ -1,4 +1,3 @@
-<!doctype html>
 
 <h1> I spent a lot of times fixing conflicts using firebase first time... 
 Any Ideas to share, welcome for any comments, pull request</h1>
@@ -29,12 +28,11 @@ All you need to do is fixing three files;
   build.gradle in project level, 
   pubspec.yaml
 
-1. visit firebase official site   'https://firebase.google.com/'.
-2. build your own project named 'test' (Just for my case.. don't really care what you fill in)
-3. go to your command line and buid a new flutter projects  'flutter create <project_name_you_want>'
-4. take a look project directories, look 'AndroidManifest.xml' in path; project_name_you_want/android/app/src/java 
-
-</body>
-
+<ol>
+  <li> visit firebase official site   'https://firebase.google.com/'. </li>
+<li>build your own project named 'test' (Just for my case.. don't really care what you fill in) </li>
+<li>go to your command line and buid a new flutter projects  'flutter create <project_name_you_want>' </li>
+  <li>take a look project directories, look 'AndroidManifest.xml' in path; project_name_you_want/android/app/src/java </li>
+</ol>
   
-  </html> 
+</body>
