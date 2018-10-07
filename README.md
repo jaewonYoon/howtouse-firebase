@@ -41,8 +41,8 @@ All you need to do is fixing three files;
       <li>
         copy the package name and paste into your console setting
         <p align="center">
-        <img src="/Users/jaewon/Desktop/image1.png" width="350" title="hover text">
-        <img src="/Users/jaewon/Desktop/image1.png" width="350" alt="accessibility text">
+        <img src="screenshots/image1.png" width="350" title="1">
+        <img src="screenshots/image1.png" width="350" alt="2">
          </p>
     </ul>
   </li>
