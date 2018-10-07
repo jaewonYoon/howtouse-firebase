@@ -1,7 +1,6 @@
 
 <h1> I spent a lot of times fixing conflicts using firebase first time... 
 Any Ideas to share, welcome for any comments, pull request</h1>
-<head> </head> 
 <body> 
 # flutter_baby
 Built by jaewonYoon 
@@ -27,12 +26,27 @@ All you need to do is fixing three files;
   build.gradle in app level, 
   build.gradle in project level, 
   pubspec.yaml
-
+<h4>
 <ol>
   <li> visit firebase official site   'https://firebase.google.com/'. </li>
 <li>build your own project named 'test' (Just for my case.. don't really care what you fill in) </li>
 <li>go to your command line and buid a new flutter projects  'flutter create <project_name_you_want>' </li>
-  <li>take a look project directories, look 'AndroidManifest.xml' in path; project_name_you_want/android/app/src/java </li>
-</ol>
+  <li><ul>
+      <li> 
+        take a look project directories, look 'AndroidManifest.xml' in path; project_name_you_want/android/app/src/java
+      </li>
+      <li>
+        find attribute pacage="com.example........"  something like that
+      </li>
+      <li>
+        copy the package name and paste into your console setting
+        <p align="center">
+        <img src="/Users/jaewon/Desktop/image1.png" width="350" title="hover text">
+        <img src="/Users/jaewon/Desktop/image1.png" width="350" alt="accessibility text">
+         </p>
+    </ul>
+  </li>
   
+</ol>
+</h4>
 </body>
